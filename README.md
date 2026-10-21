@@ -99,7 +99,7 @@ An interactive browser-based 3D assembly and exploded-view inspector manipulated
 | :--- | :--- |
 | **Stack** | `Three.js` · `Computer Vision` · `JavaScript` · `WebGL` |
 | **Capabilities** | Touchless 6-DOF spatial rotation, part explosion, and assembly inspection |
-| **Live Demo** | [hand-controlled-3d-visualizer.pages.dev](https://hand-controlled-3d-visualizer.pages.dev/) |
+| **Live Demo** | [cad-visualizer.pages.dev]((https://cad-visualizer.pages.dev/)) |
 
 ### `02` · NIPUN — National Initiative for Professional Undergraduate Networking
 A full-stack networking ecosystem built to connect undergraduate talent, projects, and professional opportunities across Bangladesh.
