@@ -1,2 +1,7 @@
-nothing to see. be better to people around you. 
-can visit rohansheikh.dpdns.org if you want to know me '-'
+<div align="center">
+
+> "nothing to see. be better to people around you."
+> 
+> *Curious about who I am? Check out [my personal site](https://rohansheikh.dpdns.org) '-'*
+
+</div>
