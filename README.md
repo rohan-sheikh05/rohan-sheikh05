@@ -7,8 +7,8 @@
     </td>
     <td valign="middle">
 <pre>
-$ status: nothing to see
-$ core_directive: be better to people around you
+$  nothing to see
+$  be better to people around you
 $ profile: <a href="https://rohansheikh.dpdns.org">https://rohansheikh.dpdns.org</a> '-'
 </pre>
     </td>
